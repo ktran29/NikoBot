@@ -1,0 +1,28 @@
+{
+  "name": "nikobot",
+  "version": "1.0.0",
+  "engines": {
+    "node": "7.5.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktran29/NikoBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktran29/NikoBot/issues"
+  },
+  "homepage": "https://github.com/ktran29/NikoBot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6",
+    "request": "^2.83.0"
+  }
+}
